@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{F10DC935-58DB-4674-AF2A-7B2014E4C255}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bitmex/EmptyInterface.cs">
+    <Files>
+      <File FileName="Bitmex/Program.cs" Line="33" Column="73" />
+      <File FileName="Bitmex/BitMEXAPI.cs" Line="194" Column="46" />
+      <File FileName="Bitmex/EmptyInterface.cs" Line="2" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mineyousei/Projects/Bitmex/Bitmex/Program.cs" relfile="Bitmex/Program.cs" line="34" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Bitmex PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

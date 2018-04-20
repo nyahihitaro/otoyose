@@ -1,0 +1,11 @@
+/Users/mineyousei/Projects/Bitmex/Bitmex/obj/Debug/netcoreapp2.0/Bitmex.csprojResolveAssemblyReference.cache
+/Users/mineyousei/Projects/Bitmex/Bitmex/obj/Debug/netcoreapp2.0/Bitmex.csproj.CoreCompileInputs.cache
+/Users/mineyousei/Projects/Bitmex/Bitmex/obj/Debug/netcoreapp2.0/Bitmex.AssemblyInfoInputs.cache
+/Users/mineyousei/Projects/Bitmex/Bitmex/obj/Debug/netcoreapp2.0/Bitmex.AssemblyInfo.cs
+/Users/mineyousei/Projects/Bitmex/Bitmex/bin/Debug/netcoreapp2.0/Bitmex.deps.json
+/Users/mineyousei/Projects/Bitmex/Bitmex/bin/Debug/netcoreapp2.0/Bitmex.runtimeconfig.json
+/Users/mineyousei/Projects/Bitmex/Bitmex/bin/Debug/netcoreapp2.0/Bitmex.runtimeconfig.dev.json
+/Users/mineyousei/Projects/Bitmex/Bitmex/bin/Debug/netcoreapp2.0/Bitmex.dll
+/Users/mineyousei/Projects/Bitmex/Bitmex/bin/Debug/netcoreapp2.0/Bitmex.pdb
+/Users/mineyousei/Projects/Bitmex/Bitmex/obj/Debug/netcoreapp2.0/Bitmex.dll
+/Users/mineyousei/Projects/Bitmex/Bitmex/obj/Debug/netcoreapp2.0/Bitmex.pdb
